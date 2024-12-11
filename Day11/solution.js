@@ -41,6 +41,4 @@ function solve(blinks) {
 }
 
 solve(25);
-
 solve(75);
-
